@@ -183,7 +183,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "Port ID": "R11B" },
+      "properties": { "Port ID": "R11B." },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
