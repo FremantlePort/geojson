@@ -22,7 +22,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Port ID": "CT 2"
+        "Port ID": "CT2"
       },
       "geometry": {
         "type": "Polygon",
