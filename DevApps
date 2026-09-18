@@ -35,7 +35,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "Port ID": "PDA 09/25.2" },
+      "properties": { "Port ID": "PDA09/25.2" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
